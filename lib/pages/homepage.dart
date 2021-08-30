@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutterapp/widgets/drawer.dart';
 
 class HomePage extends StatelessWidget {
   int days = 10;
@@ -7,6 +8,8 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        shadowColor: Colors.orange,
+        backgroundColor: Colors.orange,
         title: Text("SHIVRAJ ELECTRICALS"),
       ),
       body: Center(
@@ -14,7 +17,7 @@ class HomePage extends StatelessWidget {
           child: Text("Now We Are Online..."),
         ),
       ),
-      drawer: Drawer(),
+      drawer: MyDrawer(),
     );
   }
 }
