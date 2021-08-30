@@ -8,8 +8,6 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        shadowColor: Colors.orange,
-        backgroundColor: Colors.orange,
         title: Text("SHIVRAJ ELECTRICALS"),
       ),
       body: Center(
