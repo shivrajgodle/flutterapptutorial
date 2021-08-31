@@ -1,0 +1,96 @@
+{
+    "products" : [
+        {
+            "id": 1,
+            "name": "CABLE",
+            "description": "HAVELLS HRFR PVC 1.5 sq/mm Black 90 m Wire  (Black)",
+            "price": 1726,
+            "color": "black",
+            "image":
+                "https://rukminim1.flixcart.com/image/416/416/k5zn9u80/electrical-wire/h/e/b/whffdnka1x50-fr-sc-5-mm-wire-black-90mtr-havells-original-imafa8rhtuurspyd.jpeg?q=70"
+        },
+        {
+            "id": 2,
+            "name": "Celing Fan",
+            "description": "Atomberg Renesa 1200 mm BLDC Motor with Remote 3 Blade Ceiling Fan ",
+            "price": 3396,
+            "color": " (Brown & Black, Pack of 1)",
+            "image": "https://rukminim1.flixcart.com/image/416/416/kay9bbk0/fan/x/u/g/renesa-28-ceiling-fan-1200-atomberg-original-imafsemnghmfy4z4.jpeg?q=70"
+
+        },
+        {
+            "id": 3,
+            "name": "Wall Fan",
+            "description": "USHA Colossus 400 mm 3 Blade Wall Fan ",
+            "price": 2899,
+            "color": " (Blue,Pack of 1)",
+            "image": "https://rukminim1.flixcart.com/image/416/416/kdyus280/fan/w/4/r/colossus-70-1-wall-fan-400-usha-original-imafuremres3szh3.jpeg?q=70"
+
+        },
+        {
+            "id": 4,
+            "name": "Air Cooler",
+            "description": "BAJAJ 23 L Room/Personal Air Cooler ",
+            "price": 4899,
+            "color": "  (White, Coolest FRIO (480065))",
+            "image": "https://rukminim1.flixcart.com/image/416/416/jxc5a4w0/air-cooler/p/h/t/coolest-frio-bajaj-original-imafhtczfzpnzszu.jpeg?q=70"
+
+        },
+        {
+            "id": 5,
+            "name": "Fabric Press ",
+            "description": "Orient Electric Fabri Press DIFP10BP 1000 W Dry Iron  ",
+            "price": 489,
+            "color": "  (White,  Black ,Blue)",
+            "image": "https://rukminim1.flixcart.com/image/416/416/ka8jdzk0/iron/z/z/g/orient-electric-fabri-press-fabri-press-difp10bp-original-imafru238gvzzhym.jpeg?q=70"
+        },
+        {
+            "id": 6,
+            "name": "CABLE",
+            "description": "HAVELLS HRFR PVC 1.5 sq/mm Black 90 m Wire  (Black)",
+            "price": 1726,
+            "color": "black",
+            "image":
+                "https://rukminim1.flixcart.com/image/416/416/k5zn9u80/electrical-wire/h/e/b/whffdnka1x50-fr-sc-5-mm-wire-black-90mtr-havells-original-imafa8rhtuurspyd.jpeg?q=70"
+        },
+        {
+            "id": 7,
+            "name": "Celing Fan",
+            "description": "Atomberg Renesa 1200 mm BLDC Motor with Remote 3 Blade Ceiling Fan ",
+            "price": 3396,
+            "color": " (Brown & Black, Pack of 1)",
+            "image": "https://rukminim1.flixcart.com/image/416/416/kay9bbk0/fan/x/u/g/renesa-28-ceiling-fan-1200-atomberg-original-imafsemnghmfy4z4.jpeg?q=70"
+
+        },
+        {
+            "id": 8,
+            "name": "table Fan",
+            "description": "USHA Colossus 400 mm 3 Blade Wall Fan ",
+            "price": 1899,
+            "color": " (Blue,Pack of 1)",
+            "image": "https://rukminim1.flixcart.com/image/416/416/kdyus280/fan/w/4/r/colossus-70-1-wall-fan-400-usha-original-imafuremres3szh3.jpeg?q=70"
+
+        },
+        {
+            "id": 9,
+            "name": "Wall Fan",
+            "description": "USHA Colossus 400 mm 3 Blade Wall Fan ",
+            "price": 2899,
+            "color": " (Blue,Pack of 1)",
+            "image": "https://rukminim1.flixcart.com/image/416/416/kdyus280/fan/w/4/r/colossus-70-1-wall-fan-400-usha-original-imafuremres3szh3.jpeg?q=70"
+
+        },
+        {
+            "id": 10,
+            "name": "Air Cooler",
+            "description": "BAJAJ 23 L Room/Personal Air Cooler ",
+            "price": 4899,
+            "color": "  (White, Coolest FRIO (480065))",
+            "image": "https://rukminim1.flixcart.com/image/416/416/jxc5a4w0/air-cooler/p/h/t/coolest-frio-bajaj-original-imafhtczfzpnzszu.jpeg?q=70"
+
+        }
+        
+        
+
+    ]
+}
